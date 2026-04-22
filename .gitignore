@@ -1,0 +1,12 @@
+# API keys & credentials
+*.env
+client_secrets.json
+token.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
