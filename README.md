@@ -31,6 +31,19 @@ Mọi data từ website, YouTube, social — đều đổ về đây để phân
 - Quarterly strategy review: điều chỉnh hướng đi
 - Milestone tracking: khi nào đạt 500/1000/5000 sessions
 
+### 4. Knowledge Base
+- Tích lũy kiến thức data analytics theo module
+- Mỗi module = 1 file hoàn chỉnh (Bản chất → Lý do → Chi tiết → Áp dụng)
+- Phục vụ ra quyết định nhanh, không phải tra cứu lại từ đầu
+
+---
+
+## Báo cáo đã có
+
+| File | Giai đoạn | Nội dung |
+|---|---|---|
+| [`2026-W17-baseline-report.md`](01-weekly-reports/2026-W17-baseline-report.md) | 08/03 → 21/04/2026 (45 ngày) | Baseline report — Clarity + GSC. Phát hiện CTR collapse (1.33%), 65 dead clicks trang chủ, 16 action items |
+
 ---
 
 ## Hệ sinh thái được phân tích
@@ -79,7 +92,7 @@ analytics-hub/
 ├── .agents/rules/               # Rules bổ sung
 │
 ├── 01-weekly-reports/           # Báo cáo tuần (auto-generate)
-│   └── YYYY-WXX-report.md
+│   └── 2026-W17-baseline-report.md  ← Baseline đầu tiên
 │
 ├── 02-strategy/                 # Tầng chiến lược
 │   ├── action-plans/            # Kế hoạch hành động từ data
@@ -91,9 +104,12 @@ analytics-hub/
 │   ├── youtube/
 │   └── social/
 │
-└── 04-automations/              # Scripts, workflow exports
-    ├── n8n-workflows/
-    └── templates/               # Template báo cáo chuẩn
+├── 04-automations/              # Scripts, workflow exports
+│   ├── n8n-workflows/
+│   └── templates/               # Template báo cáo chuẩn
+│
+└── 05-knowledge/                # Kiến thức data analytics
+    └── INDEX.md                 # Bản đồ module + trạng thái
 ```
 
 ---
