@@ -1,9 +1,9 @@
 # 📊 BÁO CÁO TỔNG HỢP — lehuutuyen.com
 ## Microsoft Clarity + Google Search Console
 
-**Giai đoạn:** 08/03/2026 → 21/04/2026 (45 ngày)
-**Nguồn dữ liệu:** Microsoft Clarity (non-bot) + Google Search Console API (live data)
-**Ngày lập:** 22/04/2026
+- **Giai đoạn:** 08/03/2026 → 21/04/2026 (45 ngày)
+- **Nguồn dữ liệu:** Microsoft Clarity (non-bot) + Google Search Console API (live data)
+- **Ngày lập:** 22/04/2026
 
 ---
 
